@@ -1,3 +1,12 @@
+
+
+
+
+> [!WARNING]
+> This repo was forked and archived for preservation purposes.
+> This repo will not be taken down what so ever, a ZIP version of it is archived in releases.
+---
+
 <h1 align="center">ESP32-BlueJammer - by @emensta</h1>
 <div align="center">
   <img src="https://dwdwpld.pages.dev/ESP32-BlueJammerBy@emensta.jpg" alt="ESP32-BlueJammer">
