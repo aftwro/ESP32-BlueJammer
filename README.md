@@ -1,10 +1,4 @@
-
-
-
-
-> [!WARNING]
-> This repo was forked and archived for preservation purposes.
-> This repo will not be taken down what so ever, a ZIP version of it is archived in releases.
+# Please be advised that this repository was forked and archived for the purpose of preservation. It will not be removed Github. A ZIP version of the repository is archived on my home server, which is automatically updated to the latest release of the main repository, as well as this fork. Should the repository become inaccessible, please contact me to request the file.
 ---
 
 <h1 align="center">ESP32-BlueJammer - by @emensta</h1>
